@@ -139,4 +139,4 @@ WHERE name NOT LIKE '% %'
   AND name LIKE UPPER('%e%')
   AND name LIKE UPPER('%i%')
   AND name LIKE UPPER('%o%')
-  AND name LIKE UPPER('%u%')
+  AND name LIKE UPPER('%u%');
