@@ -154,7 +154,7 @@ WHERE
 -- Include the company and bus no. of the relevant services.
 
 SELECT DISTINCT
-  stopb.name
+  stopb.name,
   a.company,
   a.num
 FROM
